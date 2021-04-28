@@ -1,0 +1,11 @@
+#app {
+	background: #130101;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: #FEFEFE;
+	padding-left: 10px;
+	padding-top: 20px;
+	float: left;
+	height: 75px;
+	width: 100%;
+}
